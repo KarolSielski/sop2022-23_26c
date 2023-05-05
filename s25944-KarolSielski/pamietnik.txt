@@ -9,6 +9,7 @@ Dziś na zajęciach:
 	-Utworzyłem swój katalog w lokalnym repozytorium z nazwą podaną w zadaniu tj.  ss25944-KarolSielski
 	-Stowrzyłem ten plik.
 -Z racji braku czasu temat związany z instalacją debian'a (na zajęciach) temat zostanie przerobiony w domu i uzupełniony o informacje z nim związane
+
 2023-04-01
 Dziś na zajęciach:
 -Nauczyłem się obsługiwać ify, elify, elsy
